@@ -1,0 +1,33 @@
+/* タブレット向けレイアウト */
+@media all and (max-width: 1000px) {
+  
+}
+
+
+
+/* モバイル向けレイアウト */
+@media all and (max-width: 670px) {
+  .header-right {
+    display: none;
+}
+.message-sector {
+    padding: 100px 0 100px 0;
+}
+
+ .menu-icon {
+    display: flex;
+  }
+  .message-sector{
+    flex-direction: column;
+  }
+  .top-left{
+    align-items: center;
+    justify-content: center;
+    margin: 40px 0 0;
+    max-width: 100%;
+    width:100%;
+  }
+  .h1{
+    font-size: 20px;
+  }
+}
