@@ -57,6 +57,8 @@ header {
 
 /*HEADER*/
 
+/*BODY*/
+
 .top{
     box-sizing: border-box;
     margin-left: auto;
@@ -226,6 +228,11 @@ btn:hover {
     color: white;
     font-size: 20px;
 }
+
+
+/*BODY*/
+/*FOOTER*/
+
 
 .footer{
 
