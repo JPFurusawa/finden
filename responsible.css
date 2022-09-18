@@ -30,6 +30,9 @@
   .h1{
     font-size: 20px;
   }
+  .footer-content{
+    flex-wrap: wrap;
+  }
   .footer-left{
     width: 100%;
   }
