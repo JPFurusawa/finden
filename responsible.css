@@ -35,6 +35,7 @@
   }
   .footer-content{
     flex-wrap: wrap;
+    height: auto;
   }
   .footer-left{
     width: 100%;
