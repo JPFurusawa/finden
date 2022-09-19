@@ -1,0 +1,9 @@
+﻿body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN";
+    -webkit-font-smoothing:antialiased;
+    /*YuGothic,'Yu Gothic',sans-serif;*/
+}
+a {
+    text-decoration: none;
+}
